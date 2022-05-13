@@ -1,14 +1,14 @@
-## **[Rokomari-Web-Automation-Using-Selenium](url)**
+### **[Rokomari-Web-Automation-Using-Selenium](url)**
 
 
-## **[Technology used:](url)**
+### **[Technology used:](url)**
 * Test tool: Selenium
 * Language: Java
 * Architecture: POM
 * Framework: TestNG
 * IDE: Eclipase
 
-## **[Pre Requisites:](url)**
+### **[Pre Requisites:](url)**
 * Open/install Java JDK 8 or upgrade version on your PC
 * Install Maven on your PC
 * Install TestNG on your IDE
@@ -16,7 +16,7 @@
 * Setup Java, Maven environment on your PC
 * Chrome driver match with your browser
 
-## **[Requirements:](url)**
+### **[Requirements:](url)**
 These steps are executed:
 * Open the Chrome browser
 * Maximize the browser window
@@ -32,7 +32,7 @@ These steps are executed:
 * Provide your Shipping Information
 * Close the browser
 
-## **[Run the script:](url)**
+### **[Run the script:](url)**
 * Right Click to Project
 * Then select Run as TestNG
 * Run the Test Case
