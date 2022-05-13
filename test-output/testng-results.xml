@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-05-13T19:24:56 BDT" name="Default suite" finished-at="2022-05-13T19:26:01 BDT" duration-ms="65152">
+    <groups>
+    </groups>
+    <test started-at="2022-05-13T19:24:56 BDT" name="Default test" finished-at="2022-05-13T19:26:01 BDT" duration-ms="65152">
+      <class name="testCase.Signin">
+        <test-method is-config="true" signature="setDriver()[pri:0, instance:testCase.Signin@53aac487]" started-at="2022-05-13T19:24:45 BDT" name="setDriver" finished-at="2022-05-13T19:24:56 BDT" duration-ms="10466" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setDriver -->
+        <test-method signature="SigninPage()[pri:1, instance:testCase.Signin@53aac487]" started-at="2022-05-13T19:24:56 BDT" name="SigninPage" finished-at="2022-05-13T19:26:01 BDT" duration-ms="65065" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SigninPage -->
+        <test-method is-config="true" signature="close()[pri:0, instance:testCase.Signin@53aac487]" started-at="2022-05-13T19:26:01 BDT" name="close" finished-at="2022-05-13T19:26:02 BDT" duration-ms="503" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- testCase.Signin -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
